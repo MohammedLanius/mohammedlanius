@@ -26,7 +26,6 @@
 ---
 
 ## 📫 **تواصل معي**  
-<>
 [![t.me/mohammedlanius](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mohammedlanius)
 [![https://bsky.app/profile/on.misrataca.edu.ly](https://img.shields.io/badge/BlueSky-%230285FF.svg?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/on.misrataca.edu.ly)
 [![x.com/0xlanius](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xlanius)
