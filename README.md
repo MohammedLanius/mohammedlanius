@@ -11,8 +11,9 @@
 #### الواجهة الخلفية
 <div align="center">
   <img src="https://skillicons.dev/icons?i=dotnet,php,mysql" alt="المهارات التقنية">
-</div>  
-#### أخرى 
+</div> 
+
+#### أخرى
 <div align="center">
   <img src="https://skillicons.dev/icons?i=,wordpress,git,bash" alt="المهارات التقنية">
 </div>  
